@@ -25,4 +25,4 @@ Other: Excel
 
 # Contact 
 
-To contact me, DM on www.linkedin.com/in/rasheed-b-232b48b7
+To contact me, DM on linkedin.com/in/rasheed-b-232b48b7
