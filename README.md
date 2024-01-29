@@ -23,6 +23,6 @@ Other: Excel
   * I have a bachelors degree in Business Managerment minor in audio
   * I'm also a music producer
 
-# Contact 
+# 📬Contact 
 
 To contact me, DM on linkedin.com/in/rasheed-b-232b48b7
